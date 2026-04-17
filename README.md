@@ -21,7 +21,7 @@ Dự án thiết kế và chế tạo tay cầm chơi game không dây (Bluetoot
 ## 🛠 Cấu hình phần cứng (Hardware Specifications)
 * **Vi điều khiển (MCU):** ESP32-WROOM-32E (Tích hợp ăng-ten PCB)
 * **Nguồn cấp:** Cổng USB Type-C, Pin LiPo 3.7V, IC hạ áp LDO 3.3V
-* **Màn hình:** OLED 1.3" I2C
+* **Màn hình:** OLED 0.96" I2C
 * **Cảm biến:** MPU-6050 (I2C)
 * **Cụm điều khiển:** * 2x Thumb Joystick Analog (L3/R3)
   * D-Pad & Action Buttons (Digital)
